@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "272551736939",
+    "project_id": "dapp-face",
+    "storage_bucket": "dapp-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272551736939:android:45bd13a07409dbbec6a32e",
+        "android_client_info": {
+          "package_name": "com.dappface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272551736939-ipv4ljjdjnt5ucv0lg941u4mt3a1vrgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VVWKGK7XHKf2jHvF3DITCTfvXyFNedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272551736939-ipv4ljjdjnt5ucv0lg941u4mt3a1vrgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272551736939-1hgjed44rep6qbsek8tfsr8k0qn8p4ou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dappface"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
