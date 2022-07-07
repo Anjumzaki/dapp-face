@@ -42,7 +42,7 @@ npm-debug.log
 yarn-error.log
 .jest
 yarn.lock
-android/java_pid13329.hprof
+*java_pid13329.hprof
 
 # BUCK
 buck-out/
