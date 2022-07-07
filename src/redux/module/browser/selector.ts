@@ -1,12 +1,12 @@
-import {createSelector} from 'reselect'
-import {SearchEngine, SearchEngines} from 'src/const'
-import {IState} from 'src/redux/module'
-import {accountSelector} from 'src/redux/module/account'
-import {bookmarkSelector} from 'src/redux/module/bookmark'
+import { createSelector } from 'reselect'
+import { SearchEngine, SearchEngines } from 'src/const'
+import { IState } from 'src/redux/module'
+import { accountSelector } from 'src/redux/module/account'
+import { bookmarkSelector } from 'src/redux/module/bookmark'
 import * as browserType from 'src/redux/module/browser/type'
-import {entitySelector, entityType} from 'src/redux/module/entity'
-import {settingSelector} from 'src/redux/module/setting'
-import {tabType} from 'src/redux/module/tab'
+import { entitySelector, entityType } from 'src/redux/module/entity'
+import { settingSelector } from 'src/redux/module/setting'
+import { tabType } from 'src/redux/module/tab'
 
 export const getActiveTabId = (state: IState): string | undefined =>
   state.browser.activeTabId
