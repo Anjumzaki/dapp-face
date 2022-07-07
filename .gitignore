@@ -82,3 +82,6 @@ env/**/GoogleService-Info.plist
 # injectable
 lib/index.json
 lib/injectable.js
+
+
+*.hprof
